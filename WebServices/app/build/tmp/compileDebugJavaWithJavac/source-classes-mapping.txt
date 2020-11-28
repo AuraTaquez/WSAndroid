@@ -1,0 +1,35 @@
+WebServices/HttpRequest.java
+ WebServices.HttpRequest
+ WebServices.HttpRequest$1
+ WebServices.HttpRequest$10
+ WebServices.HttpRequest$2
+ WebServices.HttpRequest$3
+ WebServices.HttpRequest$4
+ WebServices.HttpRequest$5
+ WebServices.HttpRequest$6
+ WebServices.HttpRequest$7
+ WebServices.HttpRequest$8
+ WebServices.HttpRequest$9
+ WebServices.HttpRequest$Base64
+ WebServices.HttpRequest$CloseOperation
+ WebServices.HttpRequest$ConnectionFactory
+ WebServices.HttpRequest$ConnectionFactory$1
+ WebServices.HttpRequest$FlushOperation
+ WebServices.HttpRequest$HttpRequestException
+ WebServices.HttpRequest$Operation
+ WebServices.HttpRequest$RequestOutputStream
+ WebServices.HttpRequest$UploadProgress
+ WebServices.HttpRequest$UploadProgress$1
+WebServices/WebService.java
+ WebServices.WebService
+WebServices/Asynchtask.java
+ WebServices.Asynchtask
+com/example/webservices/BuildConfig.java
+ com.example.webservices.BuildConfig
+com/example/webservices/SaludoActivity.java
+ com.example.webservices.SaludoActivity
+ com.example.webservices.SaludoActivity$1
+ com.example.webservices.SaludoActivity$2
+com/example/webservices/MainActivity.java
+ com.example.webservices.MainActivity
+ com.example.webservices.MainActivity$1
